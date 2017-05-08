@@ -1,3 +1,6 @@
+Ques: Explain in brief Writable and Writable Comparable in Hadoop with an example.
+
+
 Ans:
 # Writables and its Importance in Hadoop:
 
